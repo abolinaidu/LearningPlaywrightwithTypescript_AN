@@ -1,0 +1,2 @@
+# LearningPlaywrightwithTyperscript_AN
+Practice of playwright fundamentals
