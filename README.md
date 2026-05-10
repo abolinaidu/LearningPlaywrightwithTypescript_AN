@@ -1,2 +1,2 @@
-# LearningPlaywrightwithTyperscript_AN
+# LearningPlaywrightwithTypescript_AN
 Practice of playwright fundamentals
